@@ -1,0 +1,3 @@
+C:\OSPanel\userdata\config\PHP-*_php.ini
+
+	;extension=php_imagick.dll

@@ -1,0 +1,2 @@
+C:\OSPanel\custom\bin
+C:\OSPanel\modules\php\PHP-7.2
